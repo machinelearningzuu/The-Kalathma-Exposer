@@ -1,7 +1,3 @@
-Below is an example README in Markdown format that you can use for your GitHub repository:
-
----
-
 # Ultra Rich TikTok Gossip Knowledge Graph Experiment
 
 Welcome to the **Ultra Rich TikTok Gossip Knowledge Graph Experiment**! This project is an experiment in turning a scraped corpus of viral TikTok comments into a hilariously rich and scandalously detailed knowledge graph using Neo4j and Cypher queries.
@@ -67,10 +63,6 @@ The project features an ultra-extended Cypher script that creates **130 relation
 ## Contributing
 
 Feel free to fork the repository, provide suggestions, or submit pull requests. Whether you're a data scientist, a Neo4j enthusiast, or just someone who loves a good laugh over some juicy gossip, your contributions are welcome!
-
-## License
-
-This project is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
